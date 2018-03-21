@@ -29,7 +29,7 @@
 
 - 根据目前的进展情况以及对下一循环的计划，得到如下甘特图
 
-  ![untitled](C:\Users\liao\Desktop\untitled.png)
+  ![untitled](pic\untitled.png)
 
 
 - 第一循环成本估算表（对应于甘特图）
@@ -48,7 +48,7 @@
 
 ### 资源日程表
 
-![TIM截图20180314150706](C:\Users\liao\Desktop\TIM截图20180314150706.png)
+![TIM截图20180314150706](pic\TIM截图20180314150706.png)
 
 ## 里程碑和里程碑标志日期
 
@@ -59,5 +59,5 @@
 
 ## 计划执行检查表
 
-![执行检查表](C:\Users\liao\Desktop\执行检查表.png)
+![执行检查表](pic\执行检查表.png)
 
