@@ -216,13 +216,47 @@
 7. 对图片进行边界标
 
 ```json
-
+{
+  "filename1": {
+  	"pos": [
+    	[xx, xx, xx, xx],
+    	[xx, xx, xx, xx], 
+    	...
+  	]
+  }, 
+  "filename2": {
+  	"pos": [
+    	[xx, xx, xx, xx],
+    	[xx, xx, xx, xx], 
+    	...
+  	]
+  }, 
+  ...
+}
 ```
 
 8. 对图片进行边界标并注
 
 ```json
-
+{
+  "filename1": {
+    "label": "xxxx",
+  	"pos": [
+    	[xx, xx, xx, xx],
+    	[xx, xx, xx, xx], 
+    	...
+  	]
+  }, 
+  "filename2": {
+    "label": "xxxx",
+  	"pos": [
+    	[xx, xx, xx, xx],
+    	[xx, xx, xx, xx], 
+    	...
+  	]
+  }, 
+  ...
+}
 ```
 
 ### 
