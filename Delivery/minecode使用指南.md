@@ -29,7 +29,7 @@
 
 ```Json
 {
-  "task-type": 101,
+  "taskType": 101,
   "format": "jpg",
   "description": "这是任务描述"
 }
@@ -39,7 +39,7 @@
 
 ```json
 {
-  "task-type": 200,
+  "taskType": 200,
   "format": "jpg",
   "classes": ["name1", "name2", ...],
   "description": "这是任务描述"
@@ -50,7 +50,7 @@
 
 ```json
 {
-  "task-type": 201,
+  "taskType": 201,
   "format": "jpg",
   "description": "这是任务描述"
 }
@@ -60,7 +60,7 @@
 
 ```json
 {
-  "task-type": 300,
+  "taskType": 300,
   "format": "jpg",
   "classes": ["name1", "name2", ...],
   "description": "这是任务描述"
@@ -71,7 +71,7 @@
 
 ```json
 {
-  "task-type": 301,
+  "taskType": 301,
   "format": "jpg",
   "description": "这是任务描述"
 }
@@ -81,7 +81,7 @@
 
 ```json
 {
-  "task-type": 400,
+  "taskType": 400,
   "format": "jpg",
   "description": "这是任务描述"
 }
@@ -91,8 +91,9 @@
 
 ```json
 {
-  "task-type": 401,
+  "taskType": 401,
   "format": "jpg",
+  "classes": ["name1", "name2", ...],
   "description": "这是任务描述"
 }
 ```
