@@ -1,4 +1,4 @@
-# minecode使用指南
+# MINECODE使用指南
 
 [TOC]
 
