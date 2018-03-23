@@ -168,7 +168,7 @@
 
 ```json
 {
-  "filename1": [
+  "image/xxx/161250001.jpg": [
     {
     "label": "xxxx",
     "pos": [xx, xx, xx, xx]
@@ -220,15 +220,15 @@
 {
   "filename1": {
   	"pos": [
-    	[xx, xx, xx, xx],
-    	[xx, xx, xx, xx], 
+    	[xx, xx],
+    	[xx, xx], 
     	...
   	]
   }, 
   "filename2": {
   	"pos": [
-    	[xx, xx, xx, xx],
-    	[xx, xx, xx, xx], 
+    	[xx, xx],
+    	[xx, xx], 
     	...
   	]
   }, 
@@ -243,16 +243,16 @@
   "filename1": {
     "label": "xxxx",
   	"pos": [
-    	[xx, xx, xx, xx],
-    	[xx, xx, xx, xx], 
+    	[xx, xx],
+    	[xx, xx], 
     	...
   	]
   }, 
   "filename2": {
     "label": "xxxx",
   	"pos": [
-    	[xx, xx, xx, xx],
-    	[xx, xx, xx, xx], 
+    	[xx, xx],
+    	[xx, xx], 
     	...
   	]
   }, 
